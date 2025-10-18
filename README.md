@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-light.svg" width="70" height="70" />
+   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="70" height="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="70" height="70" />
 </p>
 
